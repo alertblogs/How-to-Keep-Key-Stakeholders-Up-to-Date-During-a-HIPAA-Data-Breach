@@ -1,40 +1,33 @@
-AlertOps Expert Guidance
+How to Keep Key Stakeholders Up to Date During a HIPAA Data Breach
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+HIPAA Breach Notification Rule compliance is a must for hospitals and other healthcare organizations. Yet failure to notify key stakeholders about a HIPAA data breach remains a major problem for many healthcare organizations across the United States.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Ultimately, healthcare organizations must allocate time and resources to identify and stop data breaches. In the unfortunate event of a data breach, these organizations must notify key stakeholders immediately. Because if a healthcare organization fails to comply with the HIPAA Breach Notification Rule, the end results may include brand reputation damage, revenue losses and other long-lasting problems. 
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+A Closer Look at the HIPAA Breach Notification Rule
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+ The HIPAA Breach Notification Rule requires HIPAA-covered entities and their business associates to notify key stakeholders following a breach of unsecured protected health information. Similar breach notification provisions implemented and enforced by the Federal Trade Commission (FTC) apply to vendors of personal health records and their third-party service providers.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Additionally, a healthcare organization must post a list of breaches of unsecured protected health information affecting 500 or more individuals. That way, individuals can review brief summaries of healthcare breach cases, as well as the names of private practice providers that have reported breaches of unsecured protected health information.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+How to Respond to a Healthcare Data Breach
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+An alert tracking system is a must-have for healthcare organizations. With this system in place, a healthcare organization can notify its key stakeholders at regular intervals during a data breach.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Thanks to an alert tracking system, key stakeholders can receive reminders at regular intervals until a healthcare data breach is fully resolved. The system also allows a healthcare organization to trigger workflows to manage escalations and update control processes as needed.
 
-1 Red Canary 2021 Threat Detection Report
+An alert monitoring system enables a healthcare organization to establish notification priority and service levels based on a service level agreement (SLA), too. It even comes equipped with message rules and workflow engines that allow a healthcare organization to customize its incident response process.
+
+The Bottom Line on the HIPAA Breach Notification Rule and Healthcare Data Breaches
+
+Healthcare organizations are responsible for preparing for data breaches and complying with industry data security mandates. There is no telling when a data breach will occur. However, if a healthcare organization plans for the worst-case scenarios, it can minimize data breach damage. This organization may be able to stop data breaches before they happen as well.
+
+For healthcare organizations that want to maintain HIPAA Breach Notification Rule compliance, an alert tracking system is crucial. This system allows a healthcare organization to keep its key stakeholders informed throughout a data breach. Best of all, an alert monitoring system can help a healthcare organization streamline its response to data breaches and other incidents
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/how-will-you-notify-your-customers-when-a-hipaa-data-breach-occurs/
 
 Read more:
 ====
